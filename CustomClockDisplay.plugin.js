@@ -2,7 +2,7 @@
  * @name CustomClockDisplay
  * @author SG
  * @authorLink https://www.youtube.com/@sg-hacking3099
- * @description Un plugin de visualización de reloj personalizable que te permite mostrar la hora en tu pantalla con varias opciones de formato y posicionamiento.
+ * @description A customizable clock display plugin that allows you to show the time on your screen with various formatting and positioning options.
  * @version 0.1
  * @website https://www.youtube.com/@sg-hacking3099
  */
