@@ -1,1 +1,1 @@
-A customizable clock display plugin that allows you to show the time on your screen with various formatting and positioning options.
+A customizable clock display plugin for BetterDiscord that allows you to display the time on your screen with various formatting and positioning options.
